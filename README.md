@@ -21,9 +21,6 @@
 ## 飞机云跑路
 目前飞机云没有跑路，可以放心使用。
 
-## 飞机云评测
-更多有关飞机云评测可访问：https://jichangzhu.com/node/feijicloud/
-
 ## 更多推荐
  - [Clash节点推荐](https://github.com/clashdownload/Clash)
  - [好用的Clash节点购买机场推荐](https://clash.top/node/?utm_source=github&utm_medium=clashdownload-details)
